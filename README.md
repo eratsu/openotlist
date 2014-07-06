@@ -1,4 +1,4 @@
 openotlist
 ==========
 
-A free PHP open Tibia List using OtInfo 
+A free PHP open Tibia list using OtInfo and Bootstrap.
